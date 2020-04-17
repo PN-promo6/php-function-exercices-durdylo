@@ -1,5 +1,5 @@
 <?php
-function sum($arrayOfNumbers)
+function sum(array $arrayOfNumbers)
 {
     $sum = 0;
     for ($i = 0; $i < count($arrayOfNumbers); $i++) {
