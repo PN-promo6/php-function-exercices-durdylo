@@ -17,6 +17,6 @@ function CustomSort(&$unsortedArray)
 }
 
 $array = array(4, 5, 1, 9);
-var_dump($array);
+//var_dump($array);
 CustomSort($array);
-var_dump($array);
+//var_dump($array);
